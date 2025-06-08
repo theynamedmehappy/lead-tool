@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+selenium
+undetected-chromedriver
+python-dotenv
+wappalyzer
+pyhunter
+python-dotenv
+requests
+tqdm
