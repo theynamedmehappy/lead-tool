@@ -23,7 +23,7 @@ It enhances lead generation scraping by adding:
 
 ### 1. Clone repo
 
-git clone https://github.com/yourusername/leadgen-tool  
+git clone https://github.com/theynamedmehappy/lead-tool  
 cd leadgen-tool
 
 ### 2. Install dependencies
